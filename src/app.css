@@ -1,0 +1,13 @@
+* {
+    color: #343f50;
+}
+body {
+    background-color: darkgray;
+}
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 3rem;
+}
